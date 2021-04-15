@@ -1,7 +1,7 @@
 ---
-title: Hello World
+title: Template post
 date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+description: "This is a template post from the starter."
 ---
 
 This is my first post on my new fake blog! How exciting!
@@ -226,6 +226,6 @@ This paragraph has some `code` in it.
 
     This paragraph has some `code` in it.
 
-![Alt Text](https://placehold.it/200x50 "Image Title")
+![Alt Text](https://via.placeholder.com/150 "Image Title")
 
-    ![Alt Text](https://placehold.it/200x50 "Image Title")
+    ![Alt Text](https://via.placeholder.com/150 "Image Title")
